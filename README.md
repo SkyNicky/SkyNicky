@@ -23,9 +23,6 @@
 - Chakra UI
 - MySQL
 
-## 📈 Estatísticas do GitHub
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=SkyNicky&show_icons=true&count_private=true&hide_title=true)
-
 ## 🔗 Links Úteis
 - [LinkedIn](https://www.linkedin.com/in/nycholas-ferreira-de-freitas-rocha-3b302325b/)
 ## 🎯 Objetivos Futuros
