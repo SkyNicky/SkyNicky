@@ -1,9 +1,9 @@
-# 👋 Olá, eu sou @SkyNicky
+# 👋 Olá, eu sou o Nycholas Rocha
 
 - 👀 Estou interessado em me tornar um programador full-stack e desenvolver aplicações.
-- 🌱 Atualmente, estou cursando programação e técnico de informática. Já trabalhei com JavaScript, HTML, CSS, React, Bootstrap, MUI, Chakra UI e MySQL, mas ainda estou no básico com essas tecnologias.
+- 🌱 Atualmente, estou cursando um curso técnico de informática. Já trabalhei com JavaScript, HTML, CSS, React, Bootstrap, MUI, Chakra UI e MySQL, mas ainda estou no básico com essas tecnologias.
 - 💞️ Estou aberto a colaborar em qualquer projeto onde eu possa contribuir e aprender mais.
-- 📫 Como me contatar: Você pode me encontrar no WhatsApp (32) 98510-4736 ou por e-mail: nycholasffrocha@gmail.com ou noctisaurum0@gmail.com.
+- 📫 Como me contatar: Você pode me encontrar no WhatsApp (32) 98510-4736 ou por e-mail: nycholasffrocha@gmail.com ou nycholasrocha@gmail.com.
 - 😄 Pronomes: Ele/Dele
 - ⚡ Fato aleatório: Apesar de não ter sonhado em trabalhar com tecnologia, estou me especializando e gostando da área.
 
