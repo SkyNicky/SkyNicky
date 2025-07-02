@@ -49,8 +49,6 @@ Sou um entusiasta de tecnologia apaixonado por RPG, programação e escrita. Ess
 
 ---
 
-## 🛠️ Tecnologias e Ferramentas
-
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
 
 ## 🛠️ Tecnologias e Níveis de Conhecimento
@@ -67,7 +65,6 @@ Sou um entusiasta de tecnologia apaixonado por RPG, programação e escrita. Ess
 | ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)       | ██████░░░░ 60% |
 | ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)          | ███████░░░ 70% |
 | ![C#](https://img.shields.io/badge/-C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)                | ██████░░░░ 60% |
-![VSCode](https://img.shields.io/badge/-VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
 </div>
 
